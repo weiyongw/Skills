@@ -1,4 +1,4 @@
-# Claude Code Skills Collection
+# Claude Code Skills by 唯庸
 
 一组为 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 打造的自定义 Skills，覆盖写作、思考、设计、效率等场景。
 
@@ -152,6 +152,10 @@ cp -r idea-forge "$APPDATA/claude/skills/idea-forge"
 安装后在 Claude Code 对话中直接描述需求即可触发，也可以通过 `/skill-name` 手动调用。
 
 ---
+
+## 作者
+
+**唯庸**
 
 ## License
 
